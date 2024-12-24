@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_recortes
 
 # Spyder project settings
 .spyderproject
